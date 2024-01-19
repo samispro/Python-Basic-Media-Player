@@ -19,13 +19,6 @@ root.title("Music Player")
 root.config(background="#212121")
 root.resizable(False, False)
 
-image_icon = PhotoImage(file="MUSIC_LOGO.png")
-
-taskbar_icon = PhotoImage(file="taskbar_music_logo.png")
-
-root.iconphoto(False, image_icon, taskbar_icon)
-
-root.iconbitmap("E:\Visual Basic\MUSIC_LOGO.ico")
 
 #initialize
 
